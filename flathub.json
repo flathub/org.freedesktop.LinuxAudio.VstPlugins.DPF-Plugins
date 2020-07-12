@@ -1,4 +1,6 @@
 {
+    "end-of-life": "This plugin package has been renamed to org.freedesktop.LinuxAudio.Plugins.DPF-Plugins",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.DPF-Plugins",
     "skip-icons-check": true,
     "skip-arches": ["arm"]
 }
